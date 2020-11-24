@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xjj.lemonon.top/"/>
-  <updated>2020-03-18T11:53:00.578Z</updated>
+  <updated>2020-11-24T06:07:58.481Z</updated>
   <id>http://xjj.lemonon.top/</id>
   
   <author>
@@ -21,18 +21,18 @@
     <link href="http://xjj.lemonon.top/2020/03/18/welcome/"/>
     <id>http://xjj.lemonon.top/2020/03/18/welcome/</id>
     <published>2020-03-18T09:50:20.000Z</published>
-    <updated>2020-03-18T11:53:00.578Z</updated>
+    <updated>2020-11-24T06:07:58.481Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="霍乱时期没有爱情"><a href="#霍乱时期没有爱情" class="headerlink" title="霍乱时期没有爱情"></a>霍乱时期没有爱情</h1><blockquote><p>建站背景</p></blockquote><p>受疫情影响，学校开学遥遥无期，在家无聊至极偶然有了建博客的想法。本人属于那种<strong>什么都不会，但是什么都想学</strong>的那种学生，所以打算在此记录自己的学习进步过程(摸鱼实录)。从无到有，所有的一切都是刚刚学来的( 比如git )，甚是简陋，见谅。</p><blockquote><p>建站过程</p></blockquote><p>我原先用阿里云加wordpress建了一个小站，但是后面看到身边朋友、同学用hexo较多，加之感觉hexo更有意思一点，就重新建了一个。</p><p>建站的过程并不顺利，折腾了一晚上解决，报错最多的是hexo初始化过程，后面搭个梯子( 或许有用? )加上跑去客厅网比较好的地方解决。</p><blockquote><p>日后发展</p></blockquote><p>会在此记录自己学习的感想、解决的bug、学习总结。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="霍乱时期没有爱情"><a href="#霍乱时期没有爱情" class="headerlink" title="霍乱时期没有爱情"></a>霍乱时期没有爱情</h1><blockquote><p>背景</p></blockquote><p>受疫情影响，学校开学遥遥无期，在家无聊至极偶然有了建博客的想法。本人属于那种<strong>什么都不会，但是什么都想学</strong>的那种学生，所以打算在此记录自己的学习进步过程(摸鱼实录)。从无到有，所有的一切都是刚刚学来的( 比如git )，甚是简陋，见谅。</p><blockquote><p>过程</p></blockquote><p>我原先用阿里云加wordpress建了一个小站，但是后面看到身边朋友、同学用hexo较多，加之感觉hexo更有意思一点，就重新建了一个。</p><p>建站的过程并不顺利，折腾了一晚上解决，报错最多的是hexo初始化过程，后面搭个梯子( 或许有用? )加上跑去客厅网比较好的地方解决。</p><blockquote><p>日后</p></blockquote><p>会在此记录自己学习的感想、解决的bug、学习总结。</p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;h1 id=&quot;霍乱时期没有爱情&quot;&gt;&lt;a href=&quot;#霍乱时期没有爱情&quot; class=&quot;headerlink&quot; title=&quot;霍乱时期没有爱情&quot;&gt;&lt;/a&gt;霍乱时期没有爱情&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;建站背景&lt;/p&gt;
+&lt;p&gt;背景&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;受疫情影响，学
+&lt;p&gt;受疫情影响，学校开
       
     
     </summary>
